@@ -9,7 +9,7 @@
   📄 [View Certificate](Google_Data_Analytics_Professional.pdf)
 
 - **Kaggle Data Cleneing with python**  
-  *Kaggle (2025)*  
+  *Kaggle (Jul 2025)*  
   📄 [View Certificate](Kaggle_Data_Cleaning_Python.png)
 
 - **Tableau Desktop Specialist Certification**  
