@@ -13,7 +13,7 @@
   📄 [View Certificate](Kaggle_Data_Cleaning_Python.png)
 
 - **EF English Certificate – CEFR Level B2**  
-  *EF Education First (Expected Apr 2026)*  
+  *EF Education First (May 2025 - Feb 2026)*  
   📄 [View Certificate](English_B2_Certificate.pdf)
 
 - **Tableau Desktop Specialist Certification**  
