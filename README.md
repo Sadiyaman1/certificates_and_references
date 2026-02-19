@@ -14,7 +14,7 @@
 
 - **EF English Certificate – CEFR Level B2**  
   *EF Education First (Expected Apr 2026)*  
-  📄 [View Certificate](Google_Data_Analytics_Professional.pdf)
+  📄 [View Certificate](English_B2_Certificate.pdf)
 
 - **Tableau Desktop Specialist Certification**  
   *Tableau (Expected Feb 2026)*  
