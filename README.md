@@ -20,3 +20,12 @@
   *Tableau (Expected Feb 2026)*  
   📄 Certificate pending
 
+---
+
+## 💼 Professional References
+
+- **Reference Letter – Brumberg**  
+  📄 [View Reference Letter](reference_letter_Brumberg.pdf)
+
+- **Reference Letter – ExpertWest**  
+  📄 [View Reference Letter](reference_letter_expertwest.pdf)
