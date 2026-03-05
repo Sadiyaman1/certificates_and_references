@@ -12,9 +12,9 @@
   *Kaggle (Jul 2025)*  
   📄 [View Certificate](Kaggle_Data_Cleaning_Python.png)
 
-- **EF English Certificate – CEFR Level B2**  
+- **EF English Certificate – CEFR Level C1**  
   *EF Education First (May 2025 - Feb 2026)*  
-  📄 [View Certificate](English_B2_Certificate.pdf)
+  📄 [View Certificate](English_C1_Certificate.pdf)
 
 - **Tableau Desktop Specialist Certification**  
   *Tableau (Expected Feb 2026)*  
