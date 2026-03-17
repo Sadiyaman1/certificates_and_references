@@ -3,7 +3,8 @@
 - **Data Analytics Certification**  
   *Masterschool Berlin (Expected Apr 2024)*  
   📄 Certificate pending
-
+  📄 [View Progress Report]()
+  
 - **Google Data Analytics Professional Certificate**  
   *Coursera (Feb 2025 – Jul 2025)*  
   📄 [View Certificate](Google_Data_Analytics_Professional.pdf)
