@@ -2,7 +2,7 @@
 
 - **Data Analytics Certification**  
   *Masterschool Berlin (Expected Apr 2024)*  
-  📄 Certificate pending
+  📄 [View Certificate](Masterschool_Certificate.pdf)
   📄 [View Transcript](masterschool_transcript.pdf)
   
 - **Google Data Analytics Professional Certificate**  
@@ -18,7 +18,7 @@
   📄 [View Certificate](English_C1_Certificate.pdf)
 
 - **Tableau Desktop Specialist Certification**  
-  *Tableau (Expected Feb 2026)*  
+  *Tableau (Expected Apr 2026)*  
   📄 Certificate pending
 
 ---
